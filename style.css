@@ -1,0 +1,13 @@
+.hero-section {
+    background:
+                url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSO1ZO0ruPgKzj69FnguIYMjJzNNlWl_khNrLuZppK2q9-1mE3p56o05L3C&s=10) no-repeat center center/cover;
+    min-height: 85vh;
+    padding: 40px 15px;
+
+
+}
+
+
+.hero-card {
+    background-color: #ffffff;
+}
